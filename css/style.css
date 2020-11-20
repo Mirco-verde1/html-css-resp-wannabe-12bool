@@ -1,18 +1,9 @@
 .row {
   width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 50px;
-  margin-bottom: 30px;
   padding: 20px;
+  margin: 40px auto;
 }
 
-/* BLOCCO LEZIONI */
-#lezioni .row>.left,
-#lezioni .row>.right {
-  width: 50%;
-  float: left;
-}
 
 #lezioni .row img {
   /* per centrare orizzontalmente */
@@ -25,13 +16,7 @@
   text-align: center;
 }
 
-/* BLOCCO STEPS */
-#steps .row>.left,
-#steps .row>.central,
-#steps .row>.right {
-  float: left;
-  width: 33%;
-}
+
 
 #steps {
   text-align: center;
@@ -81,6 +66,7 @@ img {
 .text{
  font-family: 'Roboto Slab', serif;
    font-size: 30px;
+   padding: 10px;
 }
 
 img{
