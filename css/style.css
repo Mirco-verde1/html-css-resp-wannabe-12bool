@@ -12,20 +12,12 @@
   margin-left: auto;
 }
 
-#lezioni {
-  text-align: center;
-}
-
-
-
-#steps {
+#lezioni, #steps, #why {
   text-align: center;
 }
 
 /* BLOCCO PERCHE */
-#why {
-  text-align: center;
-}
+
 
 #why .row>.first,
 #why .row>.second,
